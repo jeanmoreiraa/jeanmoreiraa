@@ -1,4 +1,6 @@
-## 💬Olá! eu sou Jeancarlos Moreira 👋 
+## 💬About Me:
+Meu nome é Jean 
+Atualmente, estou cursando Desenvolvedora | javascript.
 
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
