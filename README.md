@@ -21,5 +21,5 @@ Atualmente, estou cursando Desenvolvedora | javascript.
   
   <div>
   <a href="https://www.instagram.com/jeanmoreiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[https://www.instagram.com/jeanmoreiraa/](https://www.linkedin.com/in/jeanmoreiraa/)"</a>
+  <a hre"https://www.instagram.com/jeanmoreiraa/](https://www.linkedin.com/in/jeanmoreiraa/"</a>
   </div>
