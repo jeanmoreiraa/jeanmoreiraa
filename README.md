@@ -1,6 +1,6 @@
 ## 💬About Me:
 Meu nome é Jean 
-Atualmente, estou cursando Desenvolvedor | HTML | CSS | JavaScript | .
+Atualmente, estou cursando Front-End.
 
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
