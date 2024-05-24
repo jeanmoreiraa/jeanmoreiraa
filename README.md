@@ -17,11 +17,6 @@ My name is Jean I am currently studying Front-End.
   
   <div>
   <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow">Instagran</a>
-    
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow">Linkedin</a>
-  
   <a href="mailto:jeancm110@gmail.com">My Email</a> 
   </div>
-
-
-          
