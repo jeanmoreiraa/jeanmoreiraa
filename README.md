@@ -19,3 +19,4 @@ My name is Jean I am currently studying Front-End.
   <a href="mailto:jeancm110@gmail.com">My Email</a> 
   </div>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
