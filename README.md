@@ -1,6 +1,6 @@
 ## 💬About Me:
 Meu nome é Jean 
-Atualmente, estou cursando Front-End.
+My name is Jean I am currently studying Front-End.
 
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
