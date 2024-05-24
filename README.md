@@ -20,3 +20,6 @@ My name is Jean I am currently studying Front-End.
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow"><img alt="in" height="17" width="17" src="https://img.icons8.com/?size=100&id=Psukg8I4phax&format=png&color=000000"></a>
   <a href="mailto:jeancm110@gmail.com"><img alt="mail" height="17" width="17" src="https://img.icons8.com/?size=100&id=80728&format=png&color=000000"></a> 
   </div>
+
+
+<img height="100em" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
