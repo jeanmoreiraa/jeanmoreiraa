@@ -1,4 +1,4 @@
-##<img align="center" alt="pkm" height="30" width="40" src="https://img.icons8.com/?size=100&id=6seePcDi6Lga&format=png&color=000000"> Welcome to my Github Profile!!! 
+## <img align="center" alt="pkm" height="30" width="40" src="https://img.icons8.com/?size=100&id=6seePcDi6Lga&format=png&color=000000"> Welcome to my Github Profile!!! 
 My name is Jean I am currently studying Front-End.
 
 <div align="center">
