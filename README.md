@@ -24,5 +24,5 @@ My name is Jean I am currently studying Front-End.
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
 <img align="center" alt="pkm" height="40" width="50" src="https://img.icons8.com/?size=100&id=6seePcDi6Lga&format=png&color=000000">
-<img align="center" alt="pkm" height="40" width="50"style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png">
+<img height="40" width="50" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif">
 
