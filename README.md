@@ -1,4 +1,4 @@
-##  <img align="center" alt="pkm" height="40" width="50"style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png">Welcome to my Github Profile!!! 
+##  <img align="center" alt="pkm" height="40" width="50"style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"> Welcome to my Github Profile!!! 
 My name is Jean I am currently studying Front-End.
 
 <div align="center">
