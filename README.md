@@ -20,3 +20,6 @@ My name is Jean I am currently studying Front-End.
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow">Linkedin</a>
   <a href="mailto:jeancm110@gmail.com">My Email</a> 
   </div>
+
+https://img.icons8.com/?size=100&id=sO8340DJmnua&format=png&color=000000
+<img align="center" alt="sql" height="30" width="40" src="https://img.icons8.com/?size=100&id=sO8340DJmnua&format=png&color=000000">
