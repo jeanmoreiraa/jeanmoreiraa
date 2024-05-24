@@ -16,7 +16,7 @@ My name is Jean I am currently studying Front-End.
    ## Connect with me:
   
   <div>
-  <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow"><img align="center" alt="inst" height="20" width="20" src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=000000"></a>
+  <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow"><img align="center" alt="inst" height="20" width="20" src="https://img.icons8.com/?size=100&id=KDWXXYcBSEcJ&format=png&color=#1E29E2"></a>
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow">Linkedin</a>
   <a href="mailto:jeancm110@gmail.com">My Email</a> 
   </div>
