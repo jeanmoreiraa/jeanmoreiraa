@@ -18,5 +18,5 @@ My name is Jean I am currently studying Front-End.
   <div>
   <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow"><img alt="inst" height="17" width="17" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000"></a> 
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow"><img alt="in" height="17" width="17" src="https://img.icons8.com/?size=100&id=Psukg8I4phax&format=png&color=000000"></a>
-  <a href="mailto:jeancm110@gmail.com"><img alt="mail" height="17" width="17" src="https://img.icons8.com/?size=100&id=80728&format=png&color=000000"></a> <img height="30" width="40" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif">
+  <a href="mailto:jeancm110@gmail.com"><img alt="mail" height="17" width="17" src="https://img.icons8.com/?size=100&id=80728&format=png&color=000000"></a> 
   </div>
