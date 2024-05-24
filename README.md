@@ -20,10 +20,3 @@ My name is Jean I am currently studying Front-End.
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow"><img alt="in" height="17" width="17" src="https://img.icons8.com/?size=100&id=Psukg8I4phax&format=png&color=000000"></a>
   <a href="mailto:jeancm110@gmail.com"><img alt="mail" height="17" width="17" src="https://img.icons8.com/?size=100&id=80728&format=png&color=000000"></a> 
   </div>
-
-
-
-
-Welcome to my Github Profile!!! WELCOME TO MY GITHUB PROFILE!!!
-
-
