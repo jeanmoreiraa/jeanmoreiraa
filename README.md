@@ -1,5 +1,4 @@
 ## 💬About Me:
-Meu nome é Jean 
 My name is Jean I am currently studying Front-End.
 
 <div align="center">
