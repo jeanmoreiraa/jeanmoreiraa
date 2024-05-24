@@ -18,5 +18,6 @@ My name is Jean I am currently studying Front-End.
   <a href="https://www.linkedin.com/in/jeanmoreiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:jeancm110@gmail.com">My Email</a> 
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow">Linkedin</a>
+  <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow">Instagran</a>
   </div>
 
