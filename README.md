@@ -13,7 +13,7 @@ My name is Jean I am currently studying Front-End.
 
 </div>
   
-   ##
+   ## Connect with me:
   
   <div>
   <a href="https://www.instagram.com/jeanmoreiraa/" rel="nofollow">Instagran</a>
