@@ -1,4 +1,4 @@
-##  Welcome to my Github Profile!!! 
+##  Welcome to my Github Profile!!! <img align="center" alt="pkm" height="60" width="80" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 My name is Jean I am currently studying Front-End.
 
 <div align="center">
