@@ -2,7 +2,6 @@
 My name is Jean I am currently studying Front-End.
 
 ##  🚀 Expertise
-My name is Jean I am currently studying Front-End.
 
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
