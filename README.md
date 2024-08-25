@@ -3,6 +3,11 @@ My name is Jean I am currently studying Front-End.
 
 ##  🚀 Expertise
 
+
+
+
+##  💻 Tech Stack
+
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
 </div>
@@ -15,7 +20,8 @@ My name is Jean I am currently studying Front-End.
 
 </div>
   
-   ## Connect with me:
+   ## 🌐 Socials:
+
   
   <div>
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow"><img alt="in" height="17" width="17" src="https://img.icons8.com/?size=100&id=Psukg8I4phax&format=png&color=000000"></a>
