@@ -7,9 +7,6 @@ I'm Jean Moreira I am currently studying Front-End.
 
 
 ##  💻 Tech Stack
-
-
-
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
 </div>
