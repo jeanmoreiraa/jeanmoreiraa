@@ -1,5 +1,5 @@
 ##   <img height="40" width="60" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"> Hi there 
-My name is Jean I am currently studying Front-End.
+I'm Jean Moreira I am currently studying Front-End.
 
 ##  🚀 Expertise
 
@@ -7,6 +7,8 @@ My name is Jean I am currently studying Front-End.
 
 
 ##  💻 Tech Stack
+
+
 
 <div align="center">
   <a href="https://github.com/jeanmoreiraa">
@@ -21,8 +23,6 @@ My name is Jean I am currently studying Front-End.
 </div>
   
    ## 🌐 Socials:
-
-  
   <div>
   <a href="https://www.linkedin.com/in/jeanmoreiraa" rel="nofollow"><img alt="in" height="17" width="17" src="https://img.icons8.com/?size=100&id=Psukg8I4phax&format=png&color=000000"></a>
   <a href="mailto:jeancm110@gmail.com"><img alt="mail" height="17" width="17" src="https://img.icons8.com/?size=100&id=80728&format=png&color=000000"></a> 
