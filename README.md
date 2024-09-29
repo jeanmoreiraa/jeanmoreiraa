@@ -11,7 +11,7 @@ I love programming and I intend to work hard and do my best, always creating att
 
 I'm prepared for new challenges and ready to contribute innovative, high-quality solutions. Let's build the future together!
 
-Translated with DeepL.com (free version)
+
 
 ##  🚀 Expertise
 
