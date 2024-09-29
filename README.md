@@ -1,11 +1,13 @@
 ##   👋 Hi there 
 I'm Jean Moreira I am currently studying Front-End.
 
-No front-end estou aprendendo HTML, CSS, React e JavaScript. 
+On the front-end I'm learning HTML, CSS, React and JavaScript. 
 
-Busco sempre estudar e entender novas tecnologias para uso em projetos, impulsionar e aprimora-los. 
+I'm always looking to study and understand new technologies to use in projects, to boost and improve them. 
 
-Amo a área de programação e pretendo me esforçar e dar o meu melhor, sempre criando projetos atrativos e intuitivos. Estou preparado para novos desafios e pronto para contribuir com soluções inovadoras e de alta qualidade. Vamos juntos construir o futuro!
+I love programming and I intend to work hard and do my best, always creating attractive and intuitive projects. I'm prepared for new challenges and ready to contribute innovative, high-quality solutions. Let's build the future together!
+
+
 
 
 ##  🚀 Expertise
