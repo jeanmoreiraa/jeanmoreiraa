@@ -1,5 +1,6 @@
 ##   👋 Hi there 
-I'm Jean Moreira I am currently studying Front-End.
+I'm Jean Moreira 
+
 
 
 
