@@ -24,4 +24,5 @@ I'm looking for a job opportunity. My dream is to be a systems developer.
 ## 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanmoreiraa/)
-📫 How to reach me: rafaellylemos@hotmail.com
+
+📫 How to reach me: jeancm110@gmail.com
