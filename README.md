@@ -5,7 +5,7 @@
 
 
 
- ##💻Technologies I use in my day
+ #💻Technologies I use in my day
 
    Tools & Frameworks
 
