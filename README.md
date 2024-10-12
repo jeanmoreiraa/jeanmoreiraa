@@ -5,7 +5,7 @@ I'm currently studying Web Developer
 I'm looking for a job opportunity. My dream is to be a systems developer. 
 
 
-![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
+![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-statstheme=dark)
 
 ## 💻Technologies I use in my day
