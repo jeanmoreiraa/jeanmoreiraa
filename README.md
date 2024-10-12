@@ -5,9 +5,7 @@
 
 
 
-##  🚀 Tech Stack
-
-   💻Programming Languages
+ ##💻Technologies I use in my day
 
    Tools & Frameworks
 
