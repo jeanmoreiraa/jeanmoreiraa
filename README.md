@@ -1,4 +1,9 @@
-## 👋 Hi, I'm Jean Moreira
+
+## Hi 👋, I'm Jean! A student with a passion for technology.
+
+I'm currently studying Web Developer
+I'm looking for a job opportunity. My dream is to be a systems developer. 
+
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-statstheme=dark)
