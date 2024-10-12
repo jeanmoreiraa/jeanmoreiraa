@@ -8,7 +8,11 @@ I'm Jean Moreira
 
 ##  🚀 Tech Stack
 
-##  💻Programming Languages
+   💻Programming Languages
+
+   Tools & Frameworks
+
+   Libraries
 
 
 
