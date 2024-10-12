@@ -1,5 +1,4 @@
-##   👋 Hi there 
-I'm Jean Moreira 
+##   👋 Hi, I'm Jean Moreira
 
 
 
