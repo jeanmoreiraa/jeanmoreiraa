@@ -1,6 +1,5 @@
 
-## Hi 👋, I'm Jean! A student with a passion for technology.
-
+Hi 👋, I'm Jean! A student with a passion for technology.
 I'm currently studying Web Developer
 I'm looking for a job opportunity. My dream is to be a systems developer. 
 
