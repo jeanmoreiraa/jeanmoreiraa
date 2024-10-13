@@ -1,7 +1,7 @@
 
 ## Hi, I'm Jean 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Welcome+to+my+GitHub." alt="Typing SVG" /></a>
+
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
 
