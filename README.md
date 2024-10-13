@@ -2,9 +2,8 @@
 ## Hi, I'm Jean 👋
 
 
-
-![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
-
+![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoreiraa&layout=compact)
 
 
 ## 💻Technologies I use in my day
