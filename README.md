@@ -6,7 +6,7 @@
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<img width="41%" height="195px" src="https://camo.githubusercontent.com/3879f219f9e030182e7e262388849ae5e214f2701971d5b56eb1bbbb6d566da4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656c64612d6f6c697665697261266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d36626661363226746578745f636f6c6f723d6663373863342662675f636f6c6f723d306431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoreiraa&amp;layout=compact&amp;hide_border=true&amp;title_color=6bfa62&amp;text_color=fc78c4&amp;bg_color=0d1117" style="max-width: 100%;">
 
 ## 💻Technologies I use in my day
 
