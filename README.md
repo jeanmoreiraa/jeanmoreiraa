@@ -1,12 +1,12 @@
 
 ## Hi, I'm Jean 👋
 
-
+<img src="https://camo.githubusercontent.com/078ad4d35189197125423a0a8eaf61e26431a6aa2d1cbb1dee7373df6fd3994c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d31392670617573653d3130303026636f6c6f723d366266613632266865696768743d3731266c696e65733d48656c6c6f212b57656c636f6d652b746f2b6d792b4769744875622e3b53797374656d732b416e616c797369732b616e642b446576656c6f706d656e742b2b73747564656e743b416c776179732b6c6561726e696e672b6e65772b7468696e67732e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;pause=1000&amp;color=6bfa62&amp;height=71&amp;lines=Hello!+Welcome+to+my+GitHub.;Junior+Developer++student;Jean+learning+new+things." style="max-width: 100%;">
 
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
 
-<img width="41%" height="195px" src="https://camo.githubusercontent.com/3879f219f9e030182e7e262388849ae5e214f2701971d5b56eb1bbbb6d566da4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656c64612d6f6c697665697261266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d36626661363226746578745f636f6c6f723d6663373863342662675f636f6c6f723d306431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoreiraa&amp;layout=compact&amp;hide_border=true&amp;title_color=6bfa62&amp;text_color=fc78c4&amp;bg_color=0d1117" style="max-width: 100%;">
+
 
 ## 💻Technologies I use in my day
 
@@ -27,6 +27,10 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Allyson" style="max-width: 100%;">
 
+
+  Visitors Count                                                                          
+<img align="center" src="https://camo.githubusercontent.com/0b0b63df115a622e465859280a162b57a06cb10fa8ce0aa98dc6063240545d8d/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b656c64612d6f6c6976656972617d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{elda-oliveira}/count.svg" style="max-width: 100%;">
+
 </div><br/>
   
 ## 
@@ -36,6 +40,8 @@
 
 📫 How to reach me: jeancm110@gmail.com
 
+
+##
 
 
 
