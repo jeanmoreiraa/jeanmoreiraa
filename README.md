@@ -5,7 +5,8 @@
 
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
-<img height="170em" src="https://camo.githubusercontent.com/5f3ee1d3b13f045d096c7fbc150f47b57313d6ddd9883d3eef582906533296aa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a656e6e696665726f656e6e696e67266c61796f75743d636f6d70616374266c616e67735f636f756e743d352669636f6e5f636f6c6f723d373737626439267469746c655f636f6c6f723d3737376264392662675f636f6c6f723d31613138316126746578745f636f6c6f723d46464646" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoreiraa&amp;layout=compact&amp;langs_count=5&amp;icon_color=777bd9&amp;title_color=777bd9&amp;bg_color=1a181a&amp;text_color=FFFF" style="max-width: 100%;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## 💻Technologies I use in my day
 
@@ -36,7 +37,7 @@
 📫 How to reach me: jeancm110@gmail.com
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
