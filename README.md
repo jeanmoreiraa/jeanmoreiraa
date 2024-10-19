@@ -10,7 +10,6 @@
 <span class="pl-kos">}</span></pre>
 
 
-<img src="https://camo.githubusercontent.com/28a8ccaff576a5746752260959ce671932f1a8de78dfbfce6197357789e18856/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6a616b656c696e79267468656d653d7261646963616c" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanmoreiraa&amp;theme=radical" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/e39c356d9d34ba1981a5133fb2f5b6159f42f26951cadc704c30584b50a736ac/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d6a616b656c696e79267468656d653d7261646963616c" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanmoreiraa&amp;theme=radical" style="max-width: 100%;">
 
 
 ## 💻Technologies I use in my day
