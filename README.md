@@ -33,7 +33,7 @@
 </div><br/>
   
 ## 
-📫 How to reach me: jeancm110@gmail.com  / 💼 <a href="https://www.linkedin.com/in/jeanmoreiraa/" rel="nofollow">linkedin</a></p>
+📫 How to reach me: jeancm110@gmail.com  /  💼 My for stuf <a href="https://www.linkedin.com/in/jeanmoreiraa/" rel="nofollow">linkedin</a></p> 
 ##
 
 
