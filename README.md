@@ -1,5 +1,13 @@
 
-## Hi, I'm Jean 👋
+## About me👋     
+
+<pre><span class="pl-k">fn</span> <span class="pl-en">main</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+    <span class="pl-k">let</span> name = <span class="pl-c1">'</span><span class="pl-v">Jean</span> <span class="pl-v">Moreira</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
+    <span class="pl-k">let</span> acknowledgements = <span class="pl-c1">'</span><span class="pl-v">systems</span> <span class="pl-v">development</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
+
+    <span class="pl-k">let</span> location = <span class="pl-c1">'</span><span class="pl-v">Piracicaba</span><span class="pl-kos"></span> <span class="pl-v">/</span><span class="pl-kos"></span> <span class="pl-v">Brazil</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
+    <span class="pl-k">let</span> I'm a student and my goal is? = <span class="pl-c1">'</span><span class="pl-v">Systems</span><span class="pl-v">a</span> <span class="pl-v">Development</span> <span class="pl-v"></span><span class="pl-c1">'</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span></pre>
 
 
 ![jeanmoreiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=white)
