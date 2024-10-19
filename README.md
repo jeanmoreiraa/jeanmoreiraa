@@ -30,20 +30,11 @@
  <img align="center" alt="react" height="30" width="40" src="https://camo.githubusercontent.com/56b87fdd5972d8d9de2d37a5b532ddff10c99bfa7a1886a71c6849ab218b7f33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" />
 
 
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Allyson" style="max-width: 100%;">
-
-
 </div><br/>
   
 ## 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanmoreiraa/)
-
-
 📫 How to reach me: jeancm110@gmail.com
-
-
+👔 <a href="https://www.linkedin.com/in/jeanmoreiraa/" rel="nofollow">linkedin</a></p>
 ##
 
 
