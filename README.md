@@ -34,7 +34,7 @@
   
 ## 
 📫 How to reach me: jeancm110@gmail.com
-👔 <a href="https://www.linkedin.com/in/jeanmoreiraa/" rel="nofollow">linkedin</a></p>
+💼 <a href="https://www.linkedin.com/in/jeanmoreiraa/" rel="nofollow">linkedin</a></p>
 ##
 
 
