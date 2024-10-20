@@ -9,8 +9,8 @@
     <span class="pl-k">let</span> I'm a student and my goal is? = <span class="pl-c1">'</span><span class="pl-v">Systems</span><span class="pl-v"></span> <span class="pl-v">Development</span> <span class="pl-v"></span><span class="pl-c1">'</span><span class="pl-kos">;</span>
 <span class="pl-kos">}</span></pre>
 
-
-
+![Jean Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoreiraa&hide=javascript,html=icons=true&theme=dark)
 
 
 
