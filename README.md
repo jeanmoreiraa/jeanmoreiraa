@@ -10,6 +10,9 @@
 <span class="pl-kos">}</span></pre>
 
 
+<img src="https://camo.githubusercontent.com/9de242e5e0d690019fc586f37ab332c33ee96f8ba78df943b41d279f8b1ac4a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7669746f726875676f726f3126636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874" alt="Jean Moreira's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&amp;count_private=true&amp;theme=tokyonight" style="max-width: 100%;">
+
+
 
 
 ## 💻Technologies I use in my day
