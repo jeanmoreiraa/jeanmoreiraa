@@ -14,7 +14,9 @@
 
 
 
-## 💻Technologies I use in my day
+## 💻🚀  Skills
+
+Technologies
 
 <div style="display: inline_block">
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -30,6 +32,8 @@
  <img align="center" alt="react" height="30" width="40" src="https://camo.githubusercontent.com/56b87fdd5972d8d9de2d37a5b532ddff10c99bfa7a1886a71c6849ab218b7f33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" />
 
 
+
+<img src="https://camo.githubusercontent.com/bc7af3be13e4b05e7026fd10284c1bf9779d80bc3e772a085db0680f817d2b51/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c616e67756c61722c6e6f64656a732c6a732c747970657363726970742c6d7973716c2c68746d6c2c637373" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=react,nodejs,js,typescript,mysql,html,css" style="max-width: 100%;">
 </div><br/>
   
 
