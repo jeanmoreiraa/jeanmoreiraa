@@ -6,7 +6,7 @@
     <span class="pl-k">let</span> acknowledgements = <span class="pl-c1">'</span><span class="pl-v">systems</span> <span class="pl-v">development</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
 
     <span class="pl-k">let</span> location = <span class="pl-c1">'</span><span class="pl-v">Piracicaba-SP</span><span class="pl-kos"></span> <span class="pl-v">/</span><span class="pl-kos"></span> <span class="pl-v">Brazil</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
-    <span class="pl-k">let</span> I'm a student and my goal is? = <span class="pl-c1">'</span><span class="pl-v">Systems</span><span class="pl-v"></span> <span class="pl-v">Development</span> <span class="pl-v"></span><span class="pl-c1">'</span><span class="pl-kos">;</span>
+    <span class="pl-k">let</span> I'm a student of = <span class="pl-c1">'</span><span class="pl-v">Systems</span><span class="pl-v"></span> <span class="pl-v">Development</span> <span class="pl-v"></span><span class="pl-c1">'</span><span class="pl-kos">;</span>
 <span class="pl-kos">}</span></pre>
 
 ![Jean Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmoreiraa&show_icons=true&theme=white)
