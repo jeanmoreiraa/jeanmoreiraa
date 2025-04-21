@@ -2,9 +2,7 @@
 ## About me👋     
 
     println!("Nome: Jean Moreira");
-    println!("Área: systems development", acknowledgements);
-    println!("Localização: Piracicaba-SP / Brazil", location);
-    println!("Estudante de: Systems Development", education);
+
 }
 
 <div align="center">
